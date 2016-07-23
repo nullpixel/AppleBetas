@@ -1,4 +1,5 @@
 $(".intro, .links > a, .btn, .links").css({opacity: 0});
+$(".intro.cursor").hide();
 
 $(document).ready(function() {
     // Start typing animation

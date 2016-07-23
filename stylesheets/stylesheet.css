@@ -28,7 +28,6 @@ html {
 }
 .intro.cursor {
     font-weight: 200;
-    display: none;
     position: relative;
     top: -6px;
 }
