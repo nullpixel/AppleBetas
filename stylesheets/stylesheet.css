@@ -29,7 +29,6 @@ html {
 .intro.cursor {
     font-weight: 200;
     position: relative;
-    display: none;
     top: -6px;
 }
 .links {
